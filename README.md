@@ -62,7 +62,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/rangeoverde/solana-sniper-bot.git
+git clone https://github.com/apeironrod/solana-sniper-bot.git
 ```
 
 Option 2: Download the project directly
