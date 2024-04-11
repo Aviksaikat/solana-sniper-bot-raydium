@@ -1,5 +1,4 @@
 # from Wallet_Info import get_wallet_Info
-from utils.webhook import sendWebhook
 
 from utils.alreadyBought import soldToken 
 
