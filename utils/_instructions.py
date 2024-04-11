@@ -6,14 +6,14 @@ from spl.token.instructions import create_associated_token_account, get_associat
 
 from solders.pubkey import Pubkey
 from solders.instruction import Instruction
-
+ 
 from solana.rpc.types import TokenAccountOpts
 from solana.transaction import AccountMeta
 
 from utils.layouts import SWAP_LAYOUT
 
-AMM_PROGRAM_ID = Pubkey.from_string('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8')
-SERUM_PROGRAM_ID = Pubkey.from_string('srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX')
+AMM_PROGRAM_ID = Pubkey.from_string('')
+SERUM_PROGRAM_ID = Pubkey.from_string('')
 
 
 def make_swap_instruction(amount_in: int, token_account_in: Pubkey.from_string, token_account_out: Pubkey.from_string,
