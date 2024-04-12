@@ -6,7 +6,7 @@ from configparser import ConfigParser
  
 """
 Only Take Profit
-""" 
+"""  
 
 LAMPORTS_PER_SOL = 1000000000
 
