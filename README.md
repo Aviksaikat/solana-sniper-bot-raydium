@@ -50,7 +50,8 @@ A few of the things you can do with Bot:
 
 ## Installation
 
-- Downloads Python ( Recommend the latest version )  [Python 3.12.2](https://www.python.org/downloads/)
+- Downloads Python ( Recommend the latest version )  [Python 3.12.3](https://www.python.org/downloads/)
+-  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***use admin privileges when installing py.exe*** => Tick 
 
 ## Usage
 
